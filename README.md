@@ -49,8 +49,19 @@ th eplot clearly shows that the books with **more text reviews** (> 10,000) rece
 
 ### Conclusion
 
-I can clearly recommend a list of books and authors which he/she should have in the shop based on our analysis. 
+I can clearly recommend a list of books and authors which he/she should have in the shop based on the above analysis. 
 
 Do tell me **"What would be your choice of book at the coffee place"?** 😃
+
+
+
+
+
+![Goodreads books](https://github.com/Ric222/Goodreads-Books/assets/104567667/969fc369-2a11-4092-951d-1a36d7e27464)
+
+
+
+
+
 
 
